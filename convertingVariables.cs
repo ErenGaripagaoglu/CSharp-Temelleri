@@ -10,7 +10,6 @@ namespace convertingVariables
             double floatNumber = Convert.ToDouble(number);
             Console.WriteLine(floatNumber + " is " + floatNumber.GetType().ToString());
 
-
             //Double to Integer
             double doubleNumber = 5.27;
             Console.WriteLine(doubleNumber + " is " + doubleNumber.GetType().ToString());
